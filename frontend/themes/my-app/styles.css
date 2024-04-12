@@ -1,0 +1,9 @@
+@import url('./main-layout.css');
+@import url('./views/bilder-view.css');
+@import url('./views/dashboard-view.css');    html {
+      --lumo-primary-color: hsl(214, 67%, 25%);
+      --lumo-primary-color-50pct: hsla(214, 67%, 25%, 0.5);
+      --lumo-primary-color-10pct: hsla(214, 67%, 25%, 0.1);
+      --lumo-error-text-color: hsl(3, 48%, 68%);
+
+    }
